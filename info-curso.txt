@@ -8,3 +8,5 @@ Estudiantes:
 - Johan Santiago G
 - Juan Sebastian Navas
 -
+
+Esta es la descripción del curso para el 2024B
